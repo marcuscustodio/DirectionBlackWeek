@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Yorkten Norm';
+    src: url('Yorkten-NorBol.woff2') format('woff2'),
+        url('Yorkten-NorBol.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham';
+    src: url('Gotham-Medium.woff2') format('woff2'),
+        url('Gotham-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Yorkten Cond';
+    src: url('Yorkten-ConReg.woff2') format('woff2'),
+        url('Yorkten-ConReg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham Book';
+    src: url('Gotham-Book.woff2') format('woff2'),
+        url('Gotham-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('MyriadPro-Regular.woff2') format('woff2'),
+        url('MyriadPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Yorkten Norm';
+    src: url('Yorkten-NorBla.woff2') format('woff2'),
+        url('Yorkten-NorBla.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
